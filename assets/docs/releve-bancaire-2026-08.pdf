@@ -1,0 +1,58 @@
+%PDF-1.4
+%âãÏÓ
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 4 0 R /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 1451 >>
+stream
+0.129 0.337 0.647 rg 0.00 782.00 595.00 60.00 re f
+BT /F2 15 Tf 1.000 1.000 1.000 rg 50.00 812.00 Td (Cabinet Démo Gestion) Tj ET
+BT /F1 8.5 Tf 1.000 1.000 1.000 rg 50.00 795.00 Td (10 place de la Démo, 69002 Lyon · gestion@demo.fr · Syndic de la Résidence Les Tilleuls) Tj ET
+BT /F2 16 Tf 0.080 0.130 0.200 rg 50.00 745.00 Td (Relevé bancaire — août 2026) Tj ET
+BT /F1 10 Tf 0.350 0.400 0.470 rg 50.00 727.00 Td (Banque Démo Rhône · compte séparé du syndicat · IBAN FR76 1234 5000 0100 0001 2345 678) Tj ET
+0.800 0.830 0.870 RG 0.6 w 50.00 45.00 m 545.00 45.00 l S
+BT /F1 8 Tf 0.350 0.400 0.470 rg 50.00 30.00 Td (DOCUMENT FICTIF — Version de démonstration. Aucune valeur juridique ni comptable.) Tj ET
+0.930 0.950 0.980 rg 50.00 695.00 495.00 17.00 re f
+BT /F2 9 Tf 0.350 0.400 0.470 rg 54.00 700.00 Td (Date) Tj ET
+BT /F2 9 Tf 0.350 0.400 0.470 rg 114.00 700.00 Td (Libellé) Tj ET
+BT /F2 9 Tf 0.350 0.400 0.470 rg 425.19 700.00 Td (Débit) Tj ET
+BT /F2 9 Tf 0.350 0.400 0.470 rg 517.20 700.00 Td (Crédit) Tj ET
+BT /F1 9 Tf 0.080 0.130 0.200 rg 54.00 682.00 Td (05/08/2026) Tj ET
+BT /F1 9 Tf 0.080 0.130 0.200 rg 114.00 682.00 Td (FRAIS TENUE DE COMPTE) Tj ET
+BT /F1 9 Tf 0.080 0.130 0.200 rg 415.98 682.00 Td (18,00 €) Tj ET
+BT /F1 9 Tf 0.080 0.130 0.200 rg 541.00 682.00 Td () Tj ET
+0.800 0.830 0.870 RG 0.6 w 50.00 676.00 m 545.00 676.00 l S
+BT /F1 10 Tf 0.080 0.130 0.200 rg 50.00 657.00 Td (Relevé fictif, simplifié pour la démonstration.) Tj ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+7 0 obj
+<< /Title (Document fictif - démonstration) /Producer (Démo Gestion de copropriétés) >>
+endobj
+xref
+0 8
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000121 00000 n 
+0000000257 00000 n 
+0000001760 00000 n 
+0000001857 00000 n 
+0000001959 00000 n 
+trailer
+<< /Size 8 /Root 1 0 R /Info 7 0 R >>
+startxref
+2062
+%%EOF

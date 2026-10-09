@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- FICHIER FICTIF : version de démonstration, ne pas déposer en banque. -->
+<Document xmlns="urn:iso:std:iso:20022:tech:xsd:pain.008.001.02">
+  <CstmrDrctDbtInitn>
+    <GrpHdr>
+      <MsgId>TILLEULS-PRLV-T4-2026</MsgId>
+      <CreDtTm>2026-10-09T09:31:00</CreDtTm>
+      <NbOfTxs>2</NbOfTxs>
+      <CtrlSum>2016.80</CtrlSum>
+      <InitgPty><Nm>SDC RESIDENCE LES TILLEULS</Nm></InitgPty>
+    </GrpHdr>
+    <PmtInf>
+      <PmtInfId>TILLEULS-PRLV-T4-2026-A</PmtInfId>
+      <PmtMtd>DD</PmtMtd>
+      <NbOfTxs>2</NbOfTxs>
+      <CtrlSum>2016.80</CtrlSum>
+      <PmtTpInf><SvcLvl><Cd>SEPA</Cd></SvcLvl><LclInstrm><Cd>CORE</Cd></LclInstrm><SeqTp>RCUR</SeqTp></PmtTpInf>
+      <ReqdColltnDt>2026-10-15</ReqdColltnDt>
+      <Cdtr><Nm>SDC RESIDENCE LES TILLEULS</Nm></Cdtr>
+      <CdtrAcct><Id><IBAN>FR7612345000010000012345678</IBAN></Id></CdtrAcct>
+      <CdtrAgt><FinInstnId><BIC>DEMOFR2LXXX</BIC></FinInstnId></CdtrAgt>
+      <ChrgBr>SLEV</ChrgBr>
+      <CdtrSchmeId><Id><PrvtId><Othr><Id>FR42ZZZ123456</Id><SchmeNm><Prtry>SEPA</Prtry></SchmeNm></Othr></PrvtId></Id></CdtrSchmeId>
+      <DrctDbtTxInf>
+        <PmtId><EndToEndId>TILLEULS-T4-2026-C1</EndToEndId></PmtId>
+        <InstdAmt Ccy="EUR">1834.56</InstdAmt>
+        <DrctDbtTx><MndtRltdInf><MndtId>TILLEULS-C1-2024</MndtId><DtOfSgntr>2024-12-03</DtOfSgntr></MndtRltdInf></DrctDbtTx>
+        <DbtrAgt><FinInstnId><Othr><Id>NOTPROVIDED</Id></Othr></FinInstnId></DbtrAgt>
+        <Dbtr><Nm>DUPONT MARIE</Nm></Dbtr>
+        <DbtrAcct><Id><IBAN>FR7677777000030000045214521</IBAN></Id></DbtrAcct>
+        <RmtInf><Ustrd>Appel de fonds T4 2026 lot C1</Ustrd></RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId><EndToEndId>TILLEULS-T4-2026-C7</EndToEndId></PmtId>
+        <InstdAmt Ccy="EUR">182.24</InstdAmt>
+        <DrctDbtTx><MndtRltdInf><MndtId>TILLEULS-C7-2025</MndtId><DtOfSgntr>2025-02-14</DtOfSgntr></MndtRltdInf></DrctDbtTx>
+        <DbtrAgt><FinInstnId><Othr><Id>NOTPROVIDED</Id></Othr></FinInstnId></DbtrAgt>
+        <Dbtr><Nm>MOREAU JEANNE</Nm></Dbtr>
+        <DbtrAcct><Id><IBAN>FR7666666000040000078127812</IBAN></Id></DbtrAcct>
+        <RmtInf><Ustrd>Appel de fonds T4 2026 lot C7</Ustrd></RmtInf>
+      </DrctDbtTxInf>
+    </PmtInf>
+  </CstmrDrctDbtInitn>
+</Document>

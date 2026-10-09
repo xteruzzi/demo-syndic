@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- FICHIER FICTIF : version de démonstration, ne pas déposer en banque. -->
+<Document xmlns="urn:iso:std:iso:20022:tech:xsd:pain.001.001.03">
+  <CstmrCdtTrfInitn>
+    <GrpHdr>
+      <MsgId>TILLEULS-VIR-20261009-01</MsgId>
+      <CreDtTm>2026-10-09T09:30:00</CreDtTm>
+      <NbOfTxs>2</NbOfTxs>
+      <CtrlSum>1400.00</CtrlSum>
+      <InitgPty><Nm>SDC RESIDENCE LES TILLEULS</Nm></InitgPty>
+    </GrpHdr>
+    <PmtInf>
+      <PmtInfId>TILLEULS-VIR-20261009-01-A</PmtInfId>
+      <PmtMtd>TRF</PmtMtd>
+      <NbOfTxs>2</NbOfTxs>
+      <CtrlSum>1400.00</CtrlSum>
+      <PmtTpInf><SvcLvl><Cd>SEPA</Cd></SvcLvl></PmtTpInf>
+      <ReqdExctnDt>2026-10-12</ReqdExctnDt>
+      <Dbtr><Nm>SDC RESIDENCE LES TILLEULS</Nm></Dbtr>
+      <DbtrAcct><Id><IBAN>FR7612345000010000012345678</IBAN></Id></DbtrAcct>
+      <DbtrAgt><FinInstnId><BIC>DEMOFR2LXXX</BIC></FinInstnId></DbtrAgt>
+      <ChrgBr>SLEV</ChrgBr>
+      <CdtTrfTxInf>
+        <PmtId><EndToEndId>PL-2026-09</EndToEndId></PmtId>
+        <Amt><InstdAmt Ccy="EUR">900.00</InstdAmt></Amt>
+        <Cdtr><Nm>PROPRETÉ LYONNAISE</Nm></Cdtr>
+        <CdtrAcct><Id><IBAN>FR7699999000010000098765432</IBAN></Id></CdtrAcct>
+        <RmtInf><Ustrd>Facture PL-2026-09 Nettoyage septembre</Ustrd></RmtInf>
+      </CdtTrfTxInf>
+      <CdtTrfTxInf>
+        <PmtId><EndToEndId>AD-2026-T3</EndToEndId></PmtId>
+        <Amt><InstdAmt Ccy="EUR">500.00</InstdAmt></Amt>
+        <Cdtr><Nm>ASCENSEURS DURAND</Nm></Cdtr>
+        <CdtrAcct><Id><IBAN>FR7688888000020000011223344</IBAN></Id></CdtrAcct>
+        <RmtInf><Ustrd>Facture AD-2026-T3 Entretien ascenseur T3</Ustrd></RmtInf>
+      </CdtTrfTxInf>
+    </PmtInf>
+  </CstmrCdtTrfInitn>
+</Document>
